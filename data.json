@@ -5,7 +5,8 @@
       "genre": "Chill out",
       "singer": "Benjamin Tissot",
       "url": "https://www.bensound.com/bensound-music/bensound-dreams.mp3",
-      "image": "https://cdn.bensound.com/image/cover/dreams-thumbX2.jpg"
+      "image": "https://cdn.bensound.com/image/cover/dreams-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 1,
@@ -13,8 +14,8 @@
       "genre": "Chill-Hop",
       "singer": "Benjamin Tissot",
       "url": "https://www.bensound.com/bensound-music/bensound-allthat.mp3",
-      "image": "https://cdn.bensound.com/image/cover/allthat-thumbX2.jpg"
-
+      "image": "https://cdn.bensound.com/image/cover/allthat-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "genre": "Chill",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-creativeminds.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/creativeminds-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/creativeminds-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 3,
@@ -30,7 +32,8 @@
       "genre": "Cheerful and fun royalty free",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-hey.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/hey-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/hey-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "genre": "epic symphonic orchestra",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-evolution.mp3", 
-      "image":"https://cdn.bensound.com/image/cover/evolution-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/evolution-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 5,
@@ -46,7 +50,8 @@
       "genre": "Cororate motivaton",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-inspire.mp3", 
-      "image":"https://cdn.bensound.com/image/cover/inspire-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/inspire-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 6,
@@ -54,7 +59,8 @@
       "genre": "Happy and light",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-ukulele.mp3", 
-      "image":"https://cdn.bensound.com/image/cover/ukulele-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/ukulele-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 7,
@@ -62,7 +68,8 @@
       "genre": "Gypsy french jazz",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-jazzyfrenchy.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/jazzyfrenchy-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/jazzyfrenchy-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 8,
@@ -70,7 +77,8 @@
       "genre": "Motivational",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-elevate.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/elevate-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/elevate-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 9,
@@ -78,7 +86,8 @@
       "genre": "Cinematic",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-onceagain.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/onceagain-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/onceagain-thumbX2.jpg",
+      "active": "active"
     },
     {
       "id": 10,
@@ -86,6 +95,7 @@
       "genre": "Soft electronic dance",
       "singer": "Benjamin Tissot",
       "url":"https://www.bensound.com/bensound-music/bensound-summer.mp3" , 
-      "image":"https://cdn.bensound.com/image/cover/summer-thumbX2.jpg"
+      "image":"https://cdn.bensound.com/image/cover/summer-thumbX2.jpg",
+      "active": "active"
     }
   ]
